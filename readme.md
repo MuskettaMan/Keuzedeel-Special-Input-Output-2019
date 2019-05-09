@@ -3,7 +3,7 @@ Team #
 1. Ferri de Lange
 2. Martin Keesom
 
-[Projectmanagment]() <[Trello](https://trello.com/b/ZTAV4GCQ/input-output)>
+[Projectmanagment](https://trello.com/b/ZTAV4GCQ/input-output)
 
 ## Ontwerp
 Wij gaan een arcadekast maken, waarop we retro games gaan zetten. De arcadekast heeft een joystick, 6 buttons en een eyetracker.
@@ -17,4 +17,4 @@ Zet hier de links neer naar jullie documentatie.
 * [Onderzoek]()
 * [Ontwerp]()
 * [Testrapportage]()
-* [Presentatie]()
+* [Presentatie](https://docs.google.com/presentation/d/1z-BifD7Kaj2Xq2MyFDJXNy_neg1jWOY5Ln4YvXnXOns/edit?usp=sharing)
