@@ -7,7 +7,7 @@ Team #
 
 ## Ontwerp
 Wij gaan een arcadekast maken, waarop we retro games gaan zetten. De arcadekast heeft een joystick, 3 buttons en een eyetracker.
-De 6 buttons bestaan uit: A, B en Start.
+De 3 buttons bestaan uit: A, B en Start.
 We willen een aantal retro games op de arcadekast zetten.
 Tot nu toe willen we: Snake, Asteroids, Pong en een Painting program.
 
