@@ -1,10 +1,9 @@
 # Special Input/Output
 Team #
-1. teamlid 
-2. teamlid
-3. teamlid
+1. Ferri de Lange
+2. Martin Keesom
 
-[Projectmanagment]() <Trello scrumboard bijvoorbeeld>
+[Projectmanagment]() <https://trello.com/b/ZTAV4GCQ/input-output>
 
 ## Ontwerp
 Beschrijf hier kort jullie project
