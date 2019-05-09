@@ -6,10 +6,10 @@ Team #
 [Projectmanagment](https://trello.com/b/ZTAV4GCQ/input-output)
 
 ## Ontwerp
-Wij gaan een arcadekast maken, waarop we retro games gaan zetten. De arcadekast heeft een joystick, 6 buttons en een eyetracker.
-De 6 buttons bestaan uit: A, B, X, Y, Select, Start.
+Wij gaan een arcadekast maken, waarop we retro games gaan zetten. De arcadekast heeft een joystick, 3 buttons en een eyetracker.
+De 6 buttons bestaan uit: A, B en Start.
 We willen een aantal retro games op de arcadekast zetten.
-Tot nu toe willen we: Snake, Asteroids en een Painting program.
+Tot nu toe willen we: Snake, Asteroids, Pong en een Painting program.
 
 ## Portfolio
 Zet hier de links neer naar jullie documentatie.
