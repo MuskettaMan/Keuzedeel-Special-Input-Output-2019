@@ -6,10 +6,7 @@ Team #
 [Projectmanagment](https://trello.com/b/ZTAV4GCQ/input-output)
 
 ## Ontwerp
-Wij gaan een arcadekast maken, waarop we retro games gaan zetten. De arcadekast heeft een joystick, 3 buttons en een eyetracker.
-De 3 buttons bestaan uit: A, B en Start.
-We willen een aantal retro games op de arcadekast zetten.
-Tot nu toe willen we: Snake, Asteroids, Pong en een Painting program.
+Het idee is dat we een arcadekast hebben met classic controls: buttons en joystick. Hier voor gaan we een gamehub maken, met classic games zoals: snake, pacman, pong etc. We willen de highscores ook op een webserver zetten zodat je online je scores kan bekijken.
 
 ## Portfolio
 Zet hier de links neer naar jullie documentatie.
