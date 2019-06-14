@@ -1,3 +1,7 @@
 # Project
 
-In deze folder komt jullie project zelf te staan.   
+## Main
+De main folder is voor desktop
+
+## MainPI
+De main pi folder is voor Raspberry PI, met onze arcade inputs

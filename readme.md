@@ -8,10 +8,6 @@ Team #
 ## Ontwerp
 Het idee is dat we een arcadekast hebben met classic controls: buttons en joystick. Hier voor gaan we een gamehub maken, met classic games zoals: snake, pacman, pong etc. We willen de highscores ook op een webserver zetten zodat je online je scores kan bekijken.
 
-## Product
-In de Main folder staat een versie voor desktop.
-In de MainPI folder staat een versie voor Raspberry PI
-
 ## Portfolio
 Zet hier de links neer naar jullie documentatie.
 
