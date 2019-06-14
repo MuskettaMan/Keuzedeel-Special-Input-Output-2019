@@ -8,7 +8,6 @@ public class Asteroids extends Game {
   
   boolean inputEnabled = true;
   
-  int counter = 0;
 
   int score = 0;
   
@@ -23,12 +22,14 @@ public class Asteroids extends Game {
     rect(0, 0, width, height);
     fill(255);
     textFont(font, 60);
+    textAlign(LEFT);
     text("SCORE: " + score, 30, 60);
     textFont(font, 100);
     if(!inputEnabled) {
-      text("GAME OVER", width/2 - 220, height/2);
+      textAlign(CENTER);
+      text("GAME OVER", width/2, height/2);
       textFont(font, 80);
-      text("SCORE: " + score, width/2 - 220, height/2 + 50);
+      text("SCORE: " + score, width/2, height/2 + 50);
       ReturnToHubButton();
       ship.shipColor = #ff0000;
     }
@@ -74,7 +75,6 @@ public class Asteroids extends Game {
   }
   
   public void Update() {
-    counter++;
     if(asteroids.size() <= 0) {
       asteroidSpawnCount += 10;
       int randomColor = (int)random(colors.length);    
@@ -127,20 +127,23 @@ public class Asteroids extends Game {
     } else if (keyCode == UP || key == 'W') {
       ship.boosting(false);
     }
+    
+    if(key == 'y') {
+      println("released");
+    }
   }
   
-  boolean switchColor = false;
   private void ReturnToHubButton() {
     stroke(255);
     fill(0);
-    rect(width/2 - 230, height/2 + 80, 500, 65);
+    rect(width/2 - 250, height/2 + 80, 500, 65);
     if(counter % 30 == 0) switchColor = !switchColor;
     
     if(switchColor) fill(255);
     
     if(!switchColor) fill(150);
-    
-    text("RETURN TO HUB", width/2 - 220, height/2 + 130);
+    textAlign(CENTER);
+    text("RETURN TO HUB", width/2, height/2 + 130);
   }
   
 }

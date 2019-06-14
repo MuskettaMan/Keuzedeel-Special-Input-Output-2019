@@ -6,10 +6,14 @@ Game currentGame;
 Game games[] = new Game[3];
 PFont font;
 
+int counter = 0;
+boolean switchColor = false;
+
 void setup() {
   fullScreen();
   strokeWeight(1);
   games[0] = new Asteroids();
+  games[1] = new Snake();
   
   font = loadFont("8-Bit.vlw");
   textFont(font);
@@ -25,6 +29,7 @@ void draw() {
   background(254, 138, 113);
   pushMatrix();
   boolean switchColor = false;
+    counter++;
   for(int i = 0; i < 20; i++) {
     noStroke();
     fill(#f6cd61);

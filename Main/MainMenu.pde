@@ -16,7 +16,7 @@ public class MainMenu extends Game {
     padding = new PVector(50, 40);
     
     thumbnails[0] = loadImage("tn_asteroids.png");
-    
+    thumbnails[1] = loadImage("Screenshot_4.png");
   }
   
   public void Setup() {
